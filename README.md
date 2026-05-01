@@ -84,7 +84,7 @@ If you find this work useful, please cite:
 ```bibtex
 @misc{wang2026ulapm,
   title={ULAPM-SIS: Unified Latent Affective Planning Model with Social Interaction State for Text-Driven Robot Behavior-Distance Decisions},
-  author={Wang Xu and Wang Yiwei and Fang Zheng and Togo Shunta and Yokoi Hiroshi and Jiang Yinlai},
+  author={{Wang Xu} and {Wang Yiwei} and {Fang Zheng} and {Togo Shunta} and {Yokoi Hiroshi} and {Jiang Yinlai}},
   year={2026},
   note={Manuscript under review}
 }
