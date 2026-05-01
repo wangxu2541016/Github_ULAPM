@@ -69,6 +69,10 @@ For the protocol benchmark, `src/eval_robot_protocol.py` supports `--method b1` 
 - `src/eval_robot_protocol.py`: protocol evaluation
 - `src/eval_human_adjudicated_420.py`: human-reference evaluation
 
+## Demo
+
+A real-robot demonstration video is included to show that the proposed interaction pipeline can run on a physical robot platform. In the illustrated example, the robot responds to a spoken user input by approaching the user and performing a hug-like action.
+
 ## Note
 
 This public release contains code only. Datasets, annotations, human-study assets, and model checkpoints are not included. Some training and evaluation scripts expect these files separately.
