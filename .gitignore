@@ -1,0 +1,17 @@
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+.mypy_cache/
+
+data/
+runs/
+eval_dumps/
+logs/
+figs/
+
+*.pt
+*.bin
+*.npz
+
+.DS_Store
